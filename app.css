@@ -108,6 +108,11 @@ h6{
 .flexImg a{
     display: contents;
 }
+footer{
+    margin:80px 0px 0px 0px;
+    padding: 40px 20px; 
+    background-color: #fefae0 ;
+}
 
 @media screen and (max-width:600px) {
     body{
